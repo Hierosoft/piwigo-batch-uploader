@@ -1,0 +1,7 @@
+{
+  "base_url": "https://your-piwigo.example.com",
+  "api_key_id": "pkid-xxxxxxxx-xxxxxxxxxxxx",
+  "api_key": "your-secret-key-here",
+  "share_with_group": "curators",
+  "privacy_level": "everybody"
+}

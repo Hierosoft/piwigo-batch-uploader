@@ -1,0 +1,5 @@
+# Fallback dependency list for pip.
+# Prefer dependencies.sh which installs the equivalent OS packages
+# (python3-pillow / python3-pil, python3-requests) when available.
+requests>=2.25
+Pillow>=8.0

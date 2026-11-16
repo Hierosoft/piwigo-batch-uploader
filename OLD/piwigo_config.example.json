@@ -1,0 +1,6 @@
+{
+  "base_url": "https://your-piwigo.example.com",
+  "api_key_id": "pkid-…",
+  "api_key": "…",
+  "friends_group": "friends"
+}
